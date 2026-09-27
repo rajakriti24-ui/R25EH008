@@ -1,0 +1,1 @@
+Hello, I am Akriti Raj, a B.Tech Artificial Intelligence and Data Science student at REVA University. This repository contains my academic work, programming practice, projects, and learning activities as I continue developing my skills in programming, databases, GitHub, and emerging technologies.
